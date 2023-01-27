@@ -13,6 +13,4 @@ let getQuote = () => {
     });
 };
 
-// getQuote();
-
 btn.addEventListener("click", getQuote);
